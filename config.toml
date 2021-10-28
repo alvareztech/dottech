@@ -1,4 +1,4 @@
-baseURL = 'https://alvarez.tech/'
+baseURL = 'https://dottech-alvareztech.vercel.app/'
 languageCode = 'en-us'
 title = 'ALVAREZ .tech'
 theme = "hyde"
