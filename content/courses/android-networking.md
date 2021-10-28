@@ -1,7 +1,9 @@
 ---
 title: Curso de Networking en Android
 description: Curso especializado en Networking para Android, WebServices, consumo de APIs, Threads.
-tags: android, java
+tags: 
+- android
+- java
 language: es
 ---
 Curso semipresencial dictado en la Universidad Mayor de San Andrés mediante el Instituto de Investigaciones en Informática.

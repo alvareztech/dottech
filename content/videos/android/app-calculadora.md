@@ -1,7 +1,9 @@
 ---
 title: "Creación de la aplicación Android: Calculadora"
 description: Creación de una aplicación Android sencilla de calculadora aritmética, con suma, resta, multiplicación y división.
-tags: android, java
+tags:
+- android
+- java
 date: 2016-06-11 08:00
 language: es
 video.youTube: ZsQyiP2qo0k

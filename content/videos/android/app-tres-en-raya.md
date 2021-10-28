@@ -1,7 +1,9 @@
 ---
 title: "Creación de la aplicación Android: Tres En Raya"
 description: Creación de un juego 3-en-raya (tic-tac-toe, el gato) para dos jugadores locales, que permite la introducción de los nombres de los jugares y cuente con un historial de partidas jugadas.
-tags: android, java
+tags:
+- android
+- java
 date: 2016-06-19 08:00
 language: es
 video.youTube: DFmCrRN4-dQ

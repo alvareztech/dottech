@@ -1,7 +1,9 @@
 ---
 title: Tool verify DNS
 description: Tool
-tags: dns, web
+tags: 
+- dns
+- web
 ---
 
 G Suite Toolbox’s Dig service

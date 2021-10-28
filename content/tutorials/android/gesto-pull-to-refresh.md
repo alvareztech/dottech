@@ -2,7 +2,9 @@
 title: Pull To Refresh en tu lista, RecyclerView en Android
 description: Android tiene el componente nativo para lograr esto, SwipeRefreshLayout.
 date: 2017-09-04 08:00
-tags: android, java
+tags: 
+- android
+- java
 language: es
 ---
 

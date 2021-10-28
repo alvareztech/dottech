@@ -1,7 +1,8 @@
 ---
 title: Keyboard Shortcuts
 description: Los más importantes Keyboard Shortcuts
-tags: macOS
+tags:
+- macos
 ---
 
 ## Visual Studio Code

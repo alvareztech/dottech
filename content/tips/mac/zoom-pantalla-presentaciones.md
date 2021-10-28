@@ -1,7 +1,8 @@
 ---
 title: "Speaker Tip: Zoom de tu pantalla Mac para tus presentaciones"
 description: Si estas en una presentación, y estas conectado a un proyector y quieres mostrar algo más que tus slides, el navegador, un programa, etc. y este no se ve bien, siempre puedes hacer zoom, tus oyentes te lo agradecerán.
-tags: macos
+tags:
+- macos
 date: 2017-09-03 08:00
 language: es
 ---

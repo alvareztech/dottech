@@ -1,7 +1,9 @@
 ---
 title: Descompilar aplicaciones Android
 description: Hay herramientas que te permiten ver el código fuente y recursos (imágenes, archivos, etc.) de aplicaciones Android empaquetadas en archivos APK.
-tags: android, apk
+tags:
+- android
+- apk
 date: 2015-06-04 08:00
 language: es
 ---

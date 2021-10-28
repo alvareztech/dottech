@@ -1,7 +1,9 @@
 ---
 title: Curso de Localización en Android
 description: Curso especializado en las Google APIs para localización, geocoding, maps y geofencing.
-tags: android, java
+tags: 
+- android
+- java
 language: es
 ---
 Curso semipresencial dictado en la Universidad Mayor de San Andrés mediante el Instituto de Investigaciones en Informática.

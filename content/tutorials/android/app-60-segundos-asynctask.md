@@ -1,7 +1,9 @@
 ---
 title: "Creación la aplicación Android: 60 segundos"
 description: ¿Conoces el juego de los 60 segundos? en este tutorial realizarás una aplicación de cuenta regresiva de los 60 segundos.
-tags: android, java
+tags: 
+- android
+- java
 date: 2017-09-01 08:00
 language: es
 ---

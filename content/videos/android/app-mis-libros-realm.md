@@ -1,7 +1,10 @@
 ---
 title: "Creación de la aplicación Android: Mis Libros, uso de dase de datos Realm"
 description: Una aplicación que guarda tu lista de libros en una base de datos Realm.
-tags: android, java, realm
+tags:
+- android
+- java
+- realm
 date: 2016-06-15 08:00
 language: es
 video.youTube: 3xA0mDM-rDU

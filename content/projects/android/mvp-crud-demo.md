@@ -1,7 +1,9 @@
 ---
 title: Contacts app, a simple demo project of MVP
 description: A sample of implementing the MVP (Model View Presenter) architecture pattern in an Android application.
-tags: android, java
+tags:
+- android
+- java
 date: 2017-06-08 08:00
 ---
 
