@@ -1,0 +1,15 @@
+baseURL = 'https://alvarez.tech/'
+languageCode = 'en-us'
+title = 'ALVAREZ .tech'
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/alvareztech/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/alvareztech/"}
+  ]
+
+[params]
+  description = "Here I share everything I do. Tutorials, code and more."
+  themeColor = "theme-base-0c"
+  layoutReverse = true
